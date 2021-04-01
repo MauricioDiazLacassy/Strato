@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Strato/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Strato/static/js/main.a779f889.chunk.js",
+    "main.js.map": "/Strato/static/js/main.a779f889.chunk.js.map",
+    "runtime-main.js": "/Strato/static/js/runtime-main.1217d17e.js",
+    "runtime-main.js.map": "/Strato/static/js/runtime-main.1217d17e.js.map",
+    "static/js/2.12ca6a47.chunk.js": "/Strato/static/js/2.12ca6a47.chunk.js",
+    "static/js/2.12ca6a47.chunk.js.map": "/Strato/static/js/2.12ca6a47.chunk.js.map",
+    "static/js/3.17bf8634.chunk.js": "/Strato/static/js/3.17bf8634.chunk.js",
+    "static/js/3.17bf8634.chunk.js.map": "/Strato/static/js/3.17bf8634.chunk.js.map",
+    "index.html": "/Strato/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Strato/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.12ca6a47.chunk.js.LICENSE.txt": "/Strato/static/js/2.12ca6a47.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Strato/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1217d17e.js",
+    "static/js/2.12ca6a47.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a779f889.chunk.js"
+  ]
+}
