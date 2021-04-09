@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Strato/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Strato/static/js/main.a779f889.chunk.js",
-    "main.js.map": "/Strato/static/js/main.a779f889.chunk.js.map",
+    "main.js": "/Strato/static/js/main.f6cdcb9d.chunk.js",
+    "main.js.map": "/Strato/static/js/main.f6cdcb9d.chunk.js.map",
     "runtime-main.js": "/Strato/static/js/runtime-main.1217d17e.js",
     "runtime-main.js.map": "/Strato/static/js/runtime-main.1217d17e.js.map",
     "static/js/2.12ca6a47.chunk.js": "/Strato/static/js/2.12ca6a47.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1217d17e.js",
     "static/js/2.12ca6a47.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.a779f889.chunk.js"
+    "static/js/main.f6cdcb9d.chunk.js"
   ]
 }
